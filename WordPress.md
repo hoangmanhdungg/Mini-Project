@@ -33,7 +33,7 @@ This project showcases fundamental and core skills for a System Engineer, includ
 sudo apt-get install apache2
 ```
 - **Result:** Successfully accessed the default Apache2 landing page from the host machine's browser.'
-![Default Apache Page](images/02-apache-default-page.png)
+![Default Apache Page](https://github.com/hoangmanhdungg/Mini-Project/blob/main/Images/Screenshot%202025-09-04%20005613.png?raw=true)
 
 ### 3.3: Installing and Securing MariaDB Database
 - Executed command:
@@ -99,6 +99,7 @@ sudo chown -R www-data:www-data /var/www/html/
 ## 4. Final Result
 The project was successfully completed, resulting in a fully functional WordPress website running on a self-hosted LAMP stack, accessible from the local network.
 ![alt text](images/06-wordpress-final-site.png)
+
 
 
 
