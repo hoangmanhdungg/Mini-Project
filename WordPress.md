@@ -99,7 +99,8 @@ sudo chown -R www-data:www-data /var/www/html/
 
 ## 4. Final Result
 The project was successfully completed, resulting in a fully functional WordPress website running on a self-hosted LAMP stack, accessible from the local network.
-![alt text](images/06-wordpress-final-site.png)
+![WPFN](https://github.com/hoangmanhdungg/Mini-Project/blob/main/Images/Screenshot%202025-09-04%20014032.png?raw=true)
+
 
 
 
