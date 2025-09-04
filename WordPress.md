@@ -26,7 +26,7 @@ This project showcases fundamental and core skills for a System Engineer, includ
 - A new virtual machine was created in VirtualBox.
 - The network was configured in **Bridged Adapter** mode to allow the VM to get an IP address from the local network.
 - Installed Ubuntu Server 22.04 and the OpenSSH server for remote management.
-![VM](https://github.com/hoangmanhdungg/Training-FIL/blob/main/images/Screenshot%202025-02-17%20214221.png?raw=true)
+![VM](https://github.com/hoangmanhdungg/Mini-Project/blob/main/Images/Screenshot%202025-09-04%20150449.png?raw=true)
 ### 3.2: Installing and Configuring Apache2 Web Server
 - Executed command:
 ```
@@ -99,6 +99,7 @@ sudo chown -R www-data:www-data /var/www/html/
 ## 4. Final Result
 The project was successfully completed, resulting in a fully functional WordPress website running on a self-hosted LAMP stack, accessible from the local network.
 ![alt text](images/06-wordpress-final-site.png)
+
 
 
 
