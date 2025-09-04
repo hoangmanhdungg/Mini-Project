@@ -45,7 +45,7 @@ sudo apt install mariadb-server -y
 sudo mysql_secure_installation
 ```
 - **Result:** Completed the security script, hardening the database installation.
-![DTB](images/02-apache-default-page.png)
+![DTB](https://github.com/hoangmanhdungg/Mini-Project/blob/main/Images/Screenshot%202025-09-04%20010430.png?raw=true)
 
 ### 3.4: Installing PHP
 - Install PHP along with essential modules required by WordPress for database connectivity, image processing, and more.
@@ -99,6 +99,7 @@ sudo chown -R www-data:www-data /var/www/html/
 ## 4. Final Result
 The project was successfully completed, resulting in a fully functional WordPress website running on a self-hosted LAMP stack, accessible from the local network.
 ![alt text](images/06-wordpress-final-site.png)
+
 
 
 
