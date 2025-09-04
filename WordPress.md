@@ -95,10 +95,12 @@ sudo chown -R www-data:www-data /var/www/html/
 ```
 - The final installation steps were completed through the user-friendly web interface.
 ![alt text](images/05-wordpress-setup-screen.png)
+![alt text](images/05-wordpress-setup-screen.png)
 
 ## 4. Final Result
 The project was successfully completed, resulting in a fully functional WordPress website running on a self-hosted LAMP stack, accessible from the local network.
 ![alt text](images/06-wordpress-final-site.png)
+
 
 
 
