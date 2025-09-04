@@ -63,7 +63,7 @@ Clean up after verification
 sudo rm /var/www/html/info.php
 ```
 - **Result:** The PHP Info page loaded correctly, confirming that Apache is processing PHP files.
-![DTB](images/02-apache-default-page.png)
+![DTB](https://github.com/hoangmanhdungg/Mini-Project/blob/main/Images/Screenshot%202025-09-04%20010812.png?raw=true)
 
 ### 3.5: Deploying Wordpress
 - Log into MariaDB
@@ -99,6 +99,7 @@ sudo chown -R www-data:www-data /var/www/html/
 ## 4. Final Result
 The project was successfully completed, resulting in a fully functional WordPress website running on a self-hosted LAMP stack, accessible from the local network.
 ![alt text](images/06-wordpress-final-site.png)
+
 
 
 
